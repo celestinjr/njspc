@@ -1,11 +1,12 @@
 {
+  "domain": "njspc",
+  "name": "njsPC",
   "codeowners": [
     "@celestinjr"
   ],
   "config_flow": true,
-  "domain": "njspc",
+  "documentation": "https://github.com/celestinjr/njspc",
   "integration_type": "hub",
   "iot_class": "local_push",
-  "name": "njsPC",
   "version": "0.1.0.dev0"
 }
