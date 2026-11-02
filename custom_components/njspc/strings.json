@@ -1,0 +1,24 @@
+{
+  "config": {
+    "abort": {
+      "already_configured": "This njsPC controller endpoint is already configured."
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to the njsPC controller.",
+      "invalid_host": "Enter a controller host.",
+      "invalid_port": "Enter a port from 1 to 65535.",
+      "invalid_response": "The endpoint did not return a valid njsPC response.",
+      "unknown": "Unexpected error."
+    },
+    "step": {
+      "user": {
+        "data": {
+          "host": "Host",
+          "port": "Port"
+        },
+        "description": "Connect to a nodejs-poolController instance.",
+        "title": "Connect to njsPC"
+      }
+    }
+  }
+}
